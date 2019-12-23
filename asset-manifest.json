@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/draft-react-mobx-exercise/static/css/main.8dec6cb0.chunk.css",
+    "main.js": "/draft-react-mobx-exercise/static/js/main.029c2115.chunk.js",
+    "main.js.map": "/draft-react-mobx-exercise/static/js/main.029c2115.chunk.js.map",
+    "runtime-main.js": "/draft-react-mobx-exercise/static/js/runtime-main.16bb264d.js",
+    "runtime-main.js.map": "/draft-react-mobx-exercise/static/js/runtime-main.16bb264d.js.map",
+    "static/js/2.b166ff1b.chunk.js": "/draft-react-mobx-exercise/static/js/2.b166ff1b.chunk.js",
+    "static/js/2.b166ff1b.chunk.js.map": "/draft-react-mobx-exercise/static/js/2.b166ff1b.chunk.js.map",
+    "index.html": "/draft-react-mobx-exercise/index.html",
+    "precache-manifest.7a56a53488da5febf73329b605a9b258.js": "/draft-react-mobx-exercise/precache-manifest.7a56a53488da5febf73329b605a9b258.js",
+    "service-worker.js": "/draft-react-mobx-exercise/service-worker.js",
+    "static/css/main.8dec6cb0.chunk.css.map": "/draft-react-mobx-exercise/static/css/main.8dec6cb0.chunk.css.map",
+    "static/js/2.b166ff1b.chunk.js.LICENSE": "/draft-react-mobx-exercise/static/js/2.b166ff1b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16bb264d.js",
+    "static/js/2.b166ff1b.chunk.js",
+    "static/css/main.8dec6cb0.chunk.css",
+    "static/js/main.029c2115.chunk.js"
+  ]
+}
